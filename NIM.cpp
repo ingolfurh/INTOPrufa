@@ -36,7 +36,7 @@ int main( )
 	{
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
-		cout << "                      1. Spila NIM" << endl;
+		cout << "                      1. Spila NIM (Med godfuslegu leyfi spagettiskrimslisins)" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
